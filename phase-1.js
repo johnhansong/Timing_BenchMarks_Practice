@@ -19,7 +19,7 @@ function addManyNums(n) {
   for (let i = 1; i <= n; i++) {
     total += addNums(i)
   }
-  return total
+  return total;
 }
 
 
